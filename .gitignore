@@ -1,3 +1,7 @@
+# my custom .gitignore
+*.pdf
+
+# default .gitignore for python files
 .DS_Store
 .huskyrc.json
 out
