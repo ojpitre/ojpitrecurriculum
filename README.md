@@ -1,2 +1,2 @@
 # ojpitrecurriculum
-OJpitre's curriculum docx to pdf
+OJpitre's curriculum in docx and pdf
