@@ -20,7 +20,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: install microsoft word 
-        run: choco install microsoft-office-deployment
+        run: choco install microsoft-office-deployment --params '/64bit /Product:HomeStudent2019Retail /Exclude=Publisher,Outlook,Lync,Groove,Access
 
       - name: execute py script # run main.py
         run: python main.py
