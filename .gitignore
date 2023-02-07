@@ -1,5 +1,5 @@
 # my custom .gitignore
-*.pdf
+# *.pdf
 
 # default .gitignore for python files
 .DS_Store
