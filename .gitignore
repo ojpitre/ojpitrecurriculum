@@ -46,6 +46,7 @@ pydevd*.log
 nodeLanguageServer/**
 nodeLanguageServer.*/**
 dist/**
+
 # translation files
 *.xlf
 package.nls.*.json
